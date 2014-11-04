@@ -1,7 +1,7 @@
 <?php
 require 'scraperwiki.php';
 $account = "MalteLandwehr";
-$maxTweets = 100;
+$maxTweets = 1000;
 
 /**
 DO NOT EDIT BELOW
