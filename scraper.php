@@ -1,4 +1,5 @@
 <?php
+require 'scraperwiki.php';
 $account = "MySEOSolution";
 $maxTweets = 20;
 
